@@ -6,7 +6,7 @@
 <mirrors>
     <mirror>
         <id>Public Repositories</id>
-        <url>http://172.17.0.4:8081/repository/maven-central/</url>
+        <url>http://172.17.0.2:8090/repository/maven-central/</url>
         <mirrorOf>*</mirrorOf>
     </mirror>
 </mirrors>
